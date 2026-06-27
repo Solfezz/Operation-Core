@@ -36,3 +36,9 @@ From the repository root:
 
 ```bash
 dotnet run --project src/Solfezz.Api
+## Testing
+
+Run all tests from the repository root:
+
+```bash
+dotnet test
