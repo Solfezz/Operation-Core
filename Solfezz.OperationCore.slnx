@@ -6,4 +6,9 @@
     <Project Path="src/Solfezz.Domain/Solfezz.Domain.csproj" />
     <Project Path="src/Solfezz.Infrastructure/Solfezz.Infrastructure.csproj" />
   </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Solfezz.E2ETests/Solfezz.E2ETests.csproj" />
+    <Project Path="tests/Solfezz.IntegrationTests/Solfezz.IntegrationTests.csproj" />
+    <Project Path="tests/Solfezz.UnitTests/Solfezz.UnitTests.csproj" />
+  </Folder>
 </Solution>
