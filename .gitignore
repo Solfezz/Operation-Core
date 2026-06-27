@@ -1,0 +1,56 @@
+
+---
+
+## File: `.gitignore`
+
+Paste this:
+
+```gitignore
+# Build output
+bin/
+obj/
+out/
+publish/
+
+# User-specific files
+*.user
+*.suo
+*.rsuser
+.vs/
+.vscode/*.user
+
+# Rider
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Environment / secrets
+.env
+.env.*
+*.secrets.json
+appsettings.Development.local.json
+
+# Test results
+TestResults/
+coverage/
+*.coverage
+*.coveragexml
+
+# NuGet
+*.nupkg
+packages/
+.nuget/
+
+# Docker
+docker-compose.override.yml
+
+# SQLite local databases
+*.db
+*.db-shm
+*.db-wal
