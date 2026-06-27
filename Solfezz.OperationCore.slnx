@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Solfezz.Api/Solfezz.Api.csproj" />
+    <Project Path="src/Solfezz.Application/Solfezz.Application.csproj" />
+    <Project Path="src/Solfezz.Contracts/Solfezz.Contracts.csproj" />
+    <Project Path="src/Solfezz.Domain/Solfezz.Domain.csproj" />
+    <Project Path="src/Solfezz.Infrastructure/Solfezz.Infrastructure.csproj" />
+  </Folder>
+</Solution>
