@@ -29,3 +29,10 @@ Order created
   -> Fulfillment status updated
   -> Shipment tracking recorded
   -> Operational reports generated
+
+  ## Run the API Locally
+
+From the repository root:
+
+```bash
+dotnet run --project src/Solfezz.Api
